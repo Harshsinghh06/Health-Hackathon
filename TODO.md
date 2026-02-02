@@ -11,12 +11,12 @@
 - [ ] Implement navigation and routing
 
 ## 2. Backend
-- [ ] Set up Node.js with Express.js / Python Django / JSON server
-- [ ] Configure NoSQL database (MongoDB / DynamoDB / Firestore)
-- [ ] Design database schema for users, patients, and healthcare data
-- [ ] Set up database connection and models
-- [ ] Create API folder structure
-- [ ] Implement error handling middleware
+- [x] Set up Node.js with Express.js / Python Django / JSON server
+- [x] Configure NoSQL database (MongoDB / DynamoDB / Firestore)
+- [x] Design database schema for users, patients, and healthcare data
+- [x] Set up database connection and models
+- [x] Create API folder structure
+- [x] Implement error handling middleware
 - [ ] Set up logging
 
 ## 3. Authentication
